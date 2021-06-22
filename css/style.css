@@ -17,3 +17,7 @@ body{
 .navbar-light .navbar-brand:hover{
     color: var(--menu-color);
 }
+.content-info{
+    width: 50%;
+    margin: auto;
+}

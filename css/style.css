@@ -6,6 +6,9 @@
 body{
     font-family: 'Mulish', sans-serif;
 }
+.icon img{
+    color: var(--menu-color);
+}
 .navbar-light .navbar-brand{
     text-transform: uppercase;
     color: var(--menu-color);

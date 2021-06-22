@@ -28,3 +28,9 @@ body{
 .title-info p{
     color: var(--menu-color);
 }
+.card{
+    background-color: var(--blue-color);
+    border: none;
+    color: #fff;
+    width: 100%;
+}

@@ -6,7 +6,11 @@
 body{
     font-family: 'Mulish', sans-serif;
 }
-.navbar-light .navbar-brand {
+.navbar-light .navbar-brand{
     text-transform: uppercase;
+    color: var(--menu-color);
+    font-size: 16px;
+}
+.navbar-light .navbar-brand:hover{
     color: var(--menu-color);
 }

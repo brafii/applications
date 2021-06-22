@@ -1,7 +1,12 @@
 :root{
     --blue-color: #006be7;
     --grey-color: #f5f6f8;
+    --menu-color: rgba(0,0,0,.55);
 }
 body{
     font-family: 'Mulish', sans-serif;
+}
+.navbar-light .navbar-brand {
+    text-transform: uppercase;
+    color: var(--menu-color);
 }

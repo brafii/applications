@@ -1,10 +1,13 @@
 :root{
-    --menu-color: rgba(0,0,0,.55);
+    /* --menu-color: rgba(0,0,0,.55);
     --grey-color: #626a81;
     --voilet-color: #744f9d;
     --green-color: #05beb0;
     --pink-color: #a546a0;
-    --light-blue-color: #49a5d4;
+    --light-blue-color: #49a5d4; */
+    --main-color: #027581;
+    --color-dark: #1D2231;
+    --text-grey: #8390A2;
 }
 body{
     font-family: 'Mulish', sans-serif;

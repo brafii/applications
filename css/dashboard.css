@@ -122,7 +122,9 @@ header {
     display: flex;
     align-items: center;
 }
-
+.social-icons p{
+    margin-top: 16px;
+}
 .social-icons span,
 .social-icons div {
     margin-left: 1.2rem;

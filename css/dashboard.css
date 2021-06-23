@@ -49,6 +49,11 @@ body{
     margin-bottom: 25px;
     border-bottom: 1px solid #000;
 }
+.sidebar-icons p{
+    color: #000;
+    font-size: .6em;
+    text-align: center;
+}
 .sidebar-icons i{
     /* background-color: blue; */
     padding: 20px;

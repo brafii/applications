@@ -1,0 +1,10 @@
+:root{
+    --grey-color: #626a81;
+    --voilet-color: #744f9d;
+    --green-color: #05beb0;
+    --pink-color: #a546a0;
+    --light-blue-color: #49a5d4;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+}

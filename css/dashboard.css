@@ -47,6 +47,7 @@ body{
 }
 .sidebar-icons{
     margin-bottom: 25px;
+    border-bottom: 1px solid #000;
 }
 .sidebar-icons i{
     /* background-color: blue; */

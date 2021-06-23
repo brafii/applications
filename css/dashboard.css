@@ -39,7 +39,7 @@ body{
 .sidebar-header {
     display: flex;
     background-color: #fff;
-    color: #000;
+    color: var(--menu-color);
     justify-content: space-between;
     align-items: center;
     height: 59px;
@@ -109,17 +109,6 @@ header{
     transition: left 500ms;
 }
 
-.search-wrapper {
-    display: flex;
-    align-items: center;
-}
-
-.search-wrapper input {
-    border: 0;
-    outline: 0;
-    padding: 1rem;
-    height: 38px;
-}
 
 .social-icons {
     display: flex;

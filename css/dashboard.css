@@ -1,10 +1,10 @@
 :root{
-    /* --menu-color: rgba(0,0,0,.55);
+    --menu-color: rgba(0,0,0,.55);
     --grey-color: #626a81;
     --voilet-color: #744f9d;
     --green-color: #05beb0;
     --pink-color: #a546a0;
-    --light-blue-color: #49a5d4; */
+    --light-blue-color: #49a5d4;
     --main-color: #027581;
     --color-dark: #1D2231;
     --text-grey: #8390A2;
@@ -44,6 +44,45 @@ body{
     align-items: center;
     height: 59px;
     padding: 0rem 1rem;
+}
+
+.sidebar-icons i{
+    /* background-color: blue; */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.sidebar-icons .icon1{
+    background-color: var(--grey-color);
+    color: #fff;
+}
+.sidebar-icons .icon2{
+    background-color: var(--voilet-color);
+    color: #fff;
+}
+.sidebar-icons .icon3{
+    background-color: var(--voilet-color);
+    color: #fff;
+}
+.sidebar-icons .icon4{
+    background-color: var(--green-color);
+    color: #fff;
+}
+.sidebar-icons .icon5{
+    background-color: var(--pink-color);
+    color: #fff;
+}
+.sidebar-icons .icon6{
+    background-color: var(--light-blue-color);
+    color: #fff;
+}
+.sidebar-icons .icon7{
+    background-color: var(--grey-color);
+    color: #fff;
+}
+.sidebar-icons .icon8{
+    background-color: var(--green-color);
+    color: #fff;
 }
 
 .sidebar-menu {

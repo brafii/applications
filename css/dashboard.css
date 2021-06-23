@@ -143,18 +143,13 @@ main {
     min-height: 90vh;
     padding: 1rem 3rem;
 }
-
+.btn-color{
+    background-color: #f2f2f2;
+}
 .dash-title {
     color: var(--color-dark);
     margin-bottom: 1rem;
 }
-
-/* .dash-cards {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 3rem;
-} */
-
 .card-single {
     background: #fff;
     border-radius: 7px;

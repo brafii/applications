@@ -2,6 +2,7 @@
     --blue-color: #006be7;
     --grey-color: #f5f6f8;
     --menu-color: rgba(0,0,0,.55);
+    --card-borderRadius: 10px;
 }
 body{
     font-family: 'Mulish', sans-serif;
@@ -31,7 +32,7 @@ body{
 .card{
     background-color: var(--blue-color);
     border: none;
-    border-radius: 10px;
+    border-radius: var(--card-borderRadius);
     color: #fff;
     width: 100%;
 }
@@ -51,10 +52,10 @@ body{
 }
 .card2{
     background-color: #f5f6f8;
+    border-radius: var(--card-borderRadius);
 }
 .card2 img{
     width: 50px;
     display: block;
     margin: auto;
-    border-radius: 10px;
 }

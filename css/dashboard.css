@@ -1,4 +1,5 @@
 :root{
+    --menu-color: rgba(0,0,0,.55);
     --grey-color: #626a81;
     --voilet-color: #744f9d;
     --green-color: #05beb0;
@@ -7,4 +8,14 @@
 }
 body{
     font-family: 'Mulish', sans-serif;
+}
+.icon{
+    color: var(--menu-color);
+}
+.navbar-light .navbar-brand{
+    color: var(--menu-color);
+    font-size: 16px;
+}
+.navbar-light .navbar-brand:hover{
+    color: var(--menu-color);
 }

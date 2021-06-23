@@ -42,6 +42,9 @@ body{
 .card p{
     font-size: .8em;
 }
+#insert{
+    cursor: pointer;
+}
 .butt{
     background-color: #fff;
     border: none;

@@ -30,7 +30,7 @@ body{
     left: 0;
     top: 0;
     z-index: 100;
-    background: var(--main-color);
+    background: #fff;
     color: #fff;
     overflow-y: auto;
     transition: width 500ms;
@@ -45,7 +45,9 @@ body{
     height: 59px;
     padding: 0rem 1rem;
 }
-
+.sidebar-icons{
+    margin-bottom: 25px;
+}
 .sidebar-icons i{
     /* background-color: blue; */
     padding: 20px;

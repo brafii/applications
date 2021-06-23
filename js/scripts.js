@@ -1,14 +1,11 @@
-//Custom JSON object to repesent my API
-let api =` 
-    {
-        "name": 'App',
-        "app-id": 1223222222221,
-    },
-    {
-        "name": 'SHACKS15 App',
-        "app-id": 1223220000021,
-    },
-`;
+//Custom object to repesent my API
+function api(name, id) {
+    this.name = name;
+    this.maker = maker;
+}
+
+let api1 = new API('App', '2222hhbbfhf@$22');
+let api2 = new API('SHACK15 App', '2222hh000hf@$22');
 
 
 // event handler to dynamically add new containers

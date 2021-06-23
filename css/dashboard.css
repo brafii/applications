@@ -19,12 +19,23 @@ body{
 .navbar-light .navbar-brand:hover{
     color: var(--menu-color);
 }
+.left-side{
+    border: 1px solid #000;
+}
 .right-side{
-    margin-left: 50px;
+    margin-left: 80px;
 }
 .icons1{
     background-color: var(--grey-color);
     padding: 10px;
     border-radius: 5px;
     color: #fff;
+    /* margin: 2px; */
+}
+.icons2, .icons3{
+    background-color: var(--voilet-color);
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    /* margin: 2px; */
 }

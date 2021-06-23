@@ -52,3 +52,9 @@ body{
 .card2{
     background-color: #f5f6f8;
 }
+.card2 img{
+    width: 50px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}

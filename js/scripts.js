@@ -1,3 +1,15 @@
+//Custom JSON object to repesent my API
+let api =` 
+    {
+        "name": 'App',
+        "app-id": 1223222222221,
+    },
+    {
+        "name": 'SHACKS15 App',
+        "app-id": 1223220000021,
+    },
+`;
+
 
 // event handler to dynamically add new containers
 document.querySelector('#insert').addEventListener('click', function(){
